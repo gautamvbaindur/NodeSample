@@ -1,0 +1,14 @@
+{
+  "name": "nodesample",
+  "version": "1.0.0",
+  "description": "sample node app for gcp4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gautam Baindur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
